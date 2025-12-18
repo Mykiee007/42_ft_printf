@@ -27,8 +27,6 @@ This project focuses on:
 |`%X`| Print a number in hexadecimal (base 16) number in uppercase|
 |`%` |Print a percentage '%' symbol|
 
-
-
 ## 🔧 Instructions
 
 ### ✔️ Compilation
@@ -80,9 +78,8 @@ And in your source files:
 
 ## Notes
 
-- Uses only allowed functions: write, malloc, free, va_start, va_arg, va_end
+- Uses only allowed functions: write, va_start, va_arg, va_end
 - No buffer usage — output is written directly
-- Memory is carefully managed to avoid leaks
 - Fully compliant with 42 Norminette
 
 ## Skills Learned
