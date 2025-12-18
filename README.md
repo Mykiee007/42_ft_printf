@@ -18,14 +18,14 @@ This project focuses on:
 |Specifier|Description|
 |------|---|
 |`%c`| Print a single character|
-|`%s`| Print a sting|
+|`%s`| Print a string|
 |`%p`| Print a pointer in hexadecimal format|
 |`%d`| Print a decimal (base 10) number|
-|`%i`| Print a integer in base 10|
-|`%u`| Print a unsigned decimal (base 10) number|
+|`%i`| Print an integer in base 10|
+|`%u`| Print an unsigned decimal (base 10) number|
 |`%x`| Print a number in hexadecimal (base 16) number in lowercase|
 |`%X`| Print a number in hexadecimal (base 16) number in uppercase|
-|`%` |Print a percentage '%' symbol|
+|`%` | Print a percentage '%' symbol|
 
 ## 🔧 Instructions
 
